@@ -1,0 +1,17 @@
+npm init -y
+npm i webdriverio --save
+npm i @wdio/cli --save
+npm i @wdio/local-runner
+XXXXXXX npm i @wdio/sync
+
+
+npm i @wdio/mocha-framework
+npm i @babel/cli --save-dev
+npm i @babel/core --save-dev
+npm i @babel/preset-env --save-dev
+npm i @babel/register --save-dev
+
+npm install ts-node --save-dev
+
+
+npm run mngm
